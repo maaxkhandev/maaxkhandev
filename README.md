@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/JrPDSX2/Android-ios-Mobile-App.png)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/JrPDSX2/Android-ios-Mobile-App.png)](https://github.com/maaxkhandev)
 
 
 

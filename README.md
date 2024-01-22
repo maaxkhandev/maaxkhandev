@@ -1,5 +1,4 @@
-
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuploads-ssl.webflow.com%2F5f841209f4e71b2d70034471%2F60bb4a2e143f632da3e56aea_Flutter%2520app%2520development%2520(2).png&tbnid=nvADQCfhKFiTCM&vet=12ahUKEwjR7oWB4PCDAxU_nCcCHTd_A0MQMygBegQIARBv..i&imgrefurl=https%3A%2F%2Fwww.appify.digital%2Fpost%2Fflutter-app-development&docid=zrbWKJ_02lJcOM&w=800&h=467&q=flutter%20picture&ved=2ahUKEwjR7oWB4PCDAxU_nCcCHTd_A0MQMygBegQIARBv">
+<img src="https://i.ibb.co/0fssWsf/download.jpg" alt="download" border="0">
 
 <h1 align="center">Hi 👋, I'm Maaz Khan</h1>
 <h3 align="center">A passionate Mobile app developer from Pakistan</h3>

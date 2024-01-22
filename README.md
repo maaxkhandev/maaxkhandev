@@ -1,11 +1,5 @@
-<div style="display: flex; justify-content: center;">
-    <div style="margin-right: 20px;">
-        <img style="display: block; margin: 0 auto;" src="https://1.bp.blogspot.com/-7A4WynwLsM..." alt="MasterHead" border="0">
-    </div>
-    <div>
-        <img style="display: block; margin: 0 auto;" src="https://i.ibb.co/HDTz2Y1/bring-your-mobile-app-idea-to-life-with-flutter.jpg" alt="bring-your-mobile-app-idea-to-life-with-flutter" border="0">
-    </div>
-</div>
+[![MasterHead](https://i.ibb.co/HDTz2Y1/bring-your-mobile-app-idea-to-life-with-flutter.jpg)]()
+
 
 
 

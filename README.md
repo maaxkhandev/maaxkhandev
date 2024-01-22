@@ -1,7 +1,6 @@
-<div style="text-align: center;">
-
-<img style="display: block; margin: 0 auto;" src="https://i.ibb.co/HDTz2Y1/bring-your-mobile-app-idea-to-life-with-flutter.jpg" alt="bring-your-mobile-app-idea-to-life-with-flutter" border="0">
-
+<div style="display: flex; justify-content: center;">
+    <img style="display: block; margin: 0 auto;" src="https://i.ibb.co/HDTz2Y1/bring-your-mobile-app-idea-to-life-with-flutter.jpg" alt="bring-your-mobile-app-idea-to-life-with-flutter" border="0">
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Maaz Khan</h1>
@@ -35,4 +34,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaxkhandev&show_icons=true&locale=en&layout=compact" alt="maaxkhandev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maaxkhandev&" alt="maaxkhandev" /></p>
- </div>
+

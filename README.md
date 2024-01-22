@@ -1,5 +1,5 @@
 
-<img align="right" alt="coding" width ="400" src="https://ibb.co/vL80M2m"><img src="https://i.ibb.co/vL80M2m/Android-ios-Mobile-App.png">
+<img src="https://ibb.co/vL80M2m"><img src="https://i.ibb.co/vL80M2m/Android-ios-Mobile-App.png">
 
 <h1 align="center">Hi 👋, I'm Maaz Khan</h1>
 <h3 align="center">A passionate Mobile app developer from Pakistan</h3>

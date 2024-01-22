@@ -1,4 +1,5 @@
-<img align="center" src="https://i.ibb.co/HDTz2Y1/bring-your-mobile-app-idea-to-life-with-flutter.jpg" alt="bring-your-mobile-app-idea-to-life-with-flutter" border="0">
+<img style="display: block; margin: auto;" src="https://i.ibb.co/HDTz2Y1/bring-your-mobile-app-idea-to-life-with-flutter.jpg" alt="bring-your-mobile-app-idea-to-life-with-flutter" border="0">
+
 
 <h1 align="center">Hi 👋, I'm Maaz Khan</h1>
 <h3 align="center">A passionate Mobile app developer from Pakistan</h3>

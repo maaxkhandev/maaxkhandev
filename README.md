@@ -1,4 +1,6 @@
-<img style="display: block; margin: auto;" src="https://i.ibb.co/HDTz2Y1/bring-your-mobile-app-idea-to-life-with-flutter.jpg" alt="bring-your-mobile-app-idea-to-life-with-flutter" border="0">
+<div style="text-align: center;">
+    <img src="https://i.ibb.co/HDTz2Y1/bring-your-mobile-app-idea-to-life-with-flutter.jpg" alt="bring-your-mobile-app-idea-to-life-with-flutter" border="0">
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Maaz Khan</h1>

@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maaxkhandev&label=Profile%20views&color=0e75b6&style=flat" alt="maaxkhandev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/maaxkhandev" target="blank"><img src="https://img.shields.io/twitter/follow/maaxkhandev?logo=twitter&style=for-the-badge" alt="maaxkhandev" /></a> </p>
+
 
 - 🔭 I’m currently working on [ASK](https://play.google.com/store/apps/details?id=com.absolutedisruption.ask)
 

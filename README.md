@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maaz Khan</h1>
 <h3 align="center">A passionate Mobile app developer from Pakistan</h3>
+<img align="right" alt="coding" width ="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3Qo3u5E2he0791gRNjPU3W&ust=1706001884582000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj6jLXW8IMDFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maaxkhandev&label=Profile%20views&color=0e75b6&style=flat" alt="maaxkhandev" /> </p>
 

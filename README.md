@@ -1,6 +1,4 @@
-  <div style="height: 20vh; display: flex; align-items: center; justify-content: center;">
-        <img style="width: 100%; height: 40%; object-fit: cover;" src="https://i.ibb.co/HDTz2Y1/bring-your-mobile-app-idea-to-life-with-flutter.jpg" alt="bring-your-mobile-app-idea-to-life-with-flutter" border="0">
-    </div>
+[![MasterHead](https://i.ibb.co/HDTz2Y1/bring-your-mobile-app-idea-to-life-with-flutter.jpg)]()
 
 
 
